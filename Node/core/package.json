@@ -25,7 +25,7 @@
     "jsonwebtoken": "^7.0.1",
     "promise": "^7.1.1",
     "request": "^2.69.0",
-    "rsa-pem-from-mod-exp": "^0.8.4",
+    "rsa-pem-from-mod-exp": "^0.8.5",
     "sprintf-js": "^1.0.3",
     "url-join": "^1.1.0"
   },
