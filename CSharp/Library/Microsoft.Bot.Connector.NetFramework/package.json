@@ -14,6 +14,6 @@
   "main": "./connectorClient.js",
   "typings": "./connectorClient.d.ts",
   "dependencies": {
-    "ms-rest": "^1.11.0"
+    "ms-rest": "^2.0.0"
   }
 }
